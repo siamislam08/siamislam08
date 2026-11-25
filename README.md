@@ -90,16 +90,6 @@ int main() {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=siamislam08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" />
-
-</div>
-
----
-
 ## 🚀 Featured Projects
 
 <div align="center">
