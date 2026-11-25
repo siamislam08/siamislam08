@@ -1,137 +1,74 @@
-<div align="center">
+# 👋 Hey, I'm Siam Islam!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20YOUR%20NAME&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Creator%20%7C%20Problem%20Solver&descAlignY=58&descSize=20" width="100%" />
+### 💻 Junior Developer | Competitive Programming Enthusiast | Lifelong Learner
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Building+cool+stuff+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%92%A1;Open+to+collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=8957e5)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=f1c40f)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Learning+%26+Building+Every+Day;Exploring+DSA+%26+Competitive+Programming;Turning+Ideas+Into+Code+%F0%9F%9A%80" />
+</p>
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
-```js
-const me = {
-  name: "YOUR NAME",
-  role: "Full Stack Developer",
-  location: "Dhaka, Bangladesh 🇧🇩",
-  currentlyLearning: ["Rust", "AI/ML", "System Design"],
-  currentlyBuilding: "Something awesome 🔥",
-  askMeAbout: ["Web Dev", "Open Source", "Automation"],
-  funFact: "I debug with console.log and I'm not ashamed 😎",
-};
-```
+- 🎓 Student at **BCI Engineering Institute**
+- 🌱 Currently learning **C++, Python, DSA & Database Systems**
+- 🧠 Exploring **Competitive Programming**
+- 💻 Interested in Web Development and Software Engineering
+- 🎯 Goal: Become a skilled problem solver and software developer
+- ⚡ Fun fact: I believe consistency beats motivation!
 
-- 🔭 I'm currently working on **YOUR PROJECT**
-- 🌱 I'm currently learning **NEW TECH**
-- 💬 Ask me about **YOUR TOPICS**
-- ⚡ Fun fact: **YOUR FUN FACT**
+> "First, solve the problem. Then, write the code." 
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,express,python,django,mongodb,postgres,tailwind,git,github,docker,linux,vscode,figma&perline=10" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,cpp,python,mongodb,express,firebase,git,github,vscode,postman,mysql&perline=5" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🏆 Trophies
+## 🐍 Watch My Contributions Get Eaten!
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Connect With Me
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 [**Project One**](https://github.com/YOUR_USERNAME/project-one) | Short description of what it does | `React` `Node.js` |
-| 🤖 [**Project Two**](https://github.com/YOUR_USERNAME/project-two) | Short description of what it does | `Python` `AI` |
-| 📱 [**Project Three**](https://github.com/YOUR_USERNAME/project-three) | Short description of what it does | `Next.js` `Tailwind` |
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00f7ff&line=8957e5&point=ffffff&area=true&hide_border=true" width="100%" />
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00F7FF&style=flat" />
+</p>
 
-<div align="center">
+<h3 align="center">⚡ Code. Learn. Build. Repeat. ⚡</h3>
 
-<!-- Needs a GitHub Action: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-
-</div>
-
----
-
-## 💬 Quote of the Day
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, drop a star!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
-
-</div>
+<p align="center">
+  <i>Thanks for visiting my profile! Have a great day. 🚀</i>
+</p>
