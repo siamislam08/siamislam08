@@ -1,18 +1,15 @@
-# 👋 Hey, I'm Siam Islam!
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Siam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey,%20I'm%20Siam&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Learner%20%7C%20Problem%20Solver&descAlignY=58&descSize=20" width="100%" />
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Learning+Something+New+Every+Day+%F0%9F%93%9A;Turning+Ideas+Into+Code+%F0%9F%9A%80;Practicing+DSA+%26+Competitive+Programming;Building+My+Future+One+Commit+at+a+Time" alt="Typing SVG" />
+<a href="https://github.com/siamislam08">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=Building+cool+stuff+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%92%A1;Competitive+programming+enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github&color=8957e5" />
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge&logo=github&color=f1c40f" />
+![Profile Views](https://komarev.com/ghpvc/?username=siamislam08&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/siamislam08?style=for-the-badge&logo=github&color=8957e5)
 
 </div>
 
@@ -25,9 +22,9 @@
 using namespace std;
 
 int main() {
-    string name = "Siam Islam";
-    string role = "Aspiring Software Developer";
-    string location = "Bangladesh 🇧🇩";
+    string name     = "Siam Islam";
+    string role     = "Aspiring Software Developer";
+    string location = "Dhaka, Bangladesh";
 
     string currentlyLearning[] = {
         "C++",
@@ -47,8 +44,8 @@ int main() {
 - 🎓 Student at **BCI Engineering Institute**
 - 🌱 Currently learning **C++, Python, DSA & Databases**
 - 🧠 Exploring **Competitive Programming**
-- 💻 Interested in Web Development and Software Engineering
-- 🔭 Always experimenting with new technologies and ideas
+- 💻 Interested in **Web Development and Software Engineering**
+- 🔬 Always experimenting with new technologies and ideas
 - 🎯 My goal: Become a skilled developer and problem solver
 - ⚡ Fun fact: I enjoy debugging almost as much as writing code!
 
@@ -58,19 +55,19 @@ int main() {
 
 <div align="center">
 
-### Languages
+**Languages**
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" />
 
-### Frontend Development
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,tailwind" />
 
-### Backend & Database
+**Backend & Database**
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql" />
 
-### Tools & Platforms
+**Tools & Platforms**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
 
@@ -82,13 +79,12 @@ int main() {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=siamislam08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siamislam08&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img width="65%" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=siamislam08&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -98,7 +94,7 @@ int main() {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=siamislam08&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7" />
 
 </div>
 
@@ -108,17 +104,21 @@ int main() {
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/REPOSITORY_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_1&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/siamislam08/Bus-Ticket-Booking-System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siamislam08&repo=Bus-Ticket-Booking-System&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/siamislam08/student_managment">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siamislam08&repo=student_managment&theme=tokyonight&hide_border=true" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/REPOSITORY_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_2&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/siamislam08/C-Programing">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siamislam08&repo=C-Programing&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/siamislam08/nukhab-center-main">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=siamislam08&repo=nukhab-center-main&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
-
-> Replace these with your actual public repositories. You can add more project cards as you build new things.
 
 ---
 
@@ -126,7 +126,7 @@ int main() {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00f7ff&line=8957e5&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=siamislam08&bg_color=0d1117&color=00f7ff&line=8957e5&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -136,11 +136,7 @@ int main() {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/siamislam08/siamislam08/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 
 </div>
 
@@ -150,17 +146,9 @@ int main() {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siam-islam-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siamislam08)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
 
@@ -170,11 +158,7 @@ int main() {
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
-
-<br/><br/>
-
-### "Consistency is the key to becoming extraordinary."
+> *"Consistency is the key to becoming extraordinary."*
 
 **Code. Learn. Practice. Repeat.** 🚀
 
